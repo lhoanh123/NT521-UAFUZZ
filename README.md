@@ -1,7 +1,7 @@
 # NT521-UAFUZZ
 Trường Đại học Công nghệ Thông tin ĐHQG
 
-Môn: Hệ thống tìm kiếm, phát hiện và ngăn ngừa xâm nhập - NT204.O21.ATCL
+Môn: Lập trình an toàn và khai thác lỗ hổng phần mềm - NT521.O12.ATCL
 
 Thành viên: 
 - Lê Hoàng Oanh - 21521253
